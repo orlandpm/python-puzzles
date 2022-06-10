@@ -1,3 +1,4 @@
+# problem 6
 # change the values of x, y, and z so the program prints a correct sentence
 
 x = 1
