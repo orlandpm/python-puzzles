@@ -1,0 +1,1 @@
+# write a python program that prints the numbers from 0 to 99 counting by threes
