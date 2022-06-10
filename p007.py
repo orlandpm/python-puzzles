@@ -5,6 +5,6 @@ word = "Hello"
 
 # don't change this part!
 
-sentence = "%s World!"
+sentence = "%s World!" % word
 
 print(sentence)
